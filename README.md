@@ -92,7 +92,7 @@ The system includes error handling to manage database exceptions, input validati
 
 ## Contributors
 
-- **GERARD JAMES PAGLINAGYEN** - Developer
+- **GERARD JAMES PAGLINGAYEN** - Developer
 
 ## License
 
